@@ -1,4 +1,4 @@
-Pong-DQL
+
 DQL Model that learns to beat Atari Pong using PyTorch, Tensorflow, Keras
 
 ![image](https://github.com/VarunSunderRajan/Pong-DQL-Machine-Learning/assets/47671400/0a8d9f7d-2f9f-4f95-b5aa-03661be11e07)
